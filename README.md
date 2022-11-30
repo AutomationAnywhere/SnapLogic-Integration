@@ -1,8 +1,8 @@
 # SnapLogic Integration
 
-Integrate SnapLogic with the  and deploy bots. Authenticate yourself to access a  and deploy or perform other operations by using various  APIs.
+You integrate SnapLogic with the  and deploy bots. Authenticate yourself to access a  and then deploy or perform other operations by using various  APIs.
 
-SnapLogic is a data integration platform that can connect to any source, and deliver data in the most suitable format for analytical solutions. SnapLogic has many pre-built connectors called snaps. Snaps are the building blocks of a pipeline that perform a single function such as reading, writing, or acting on data. A pipeline is a collection of snaps that orchestrate data flow between endpoints. You can use these snaps to integrate data from applications to derive insights. You can easily integrate  to variety of applications using the SnapLogic Intelligent Integration Platform \(IIP\). The SnapLogic is an industry leading iPaaS \(Integration Platform as a service\) vendor with single platform to integrate applications, data, and things seamlessly.
+SnapLogic is a data integration platform that can connect to any source, and deliver data in a suitable format for analytical solutions. SnapLogic has many pre-built connectors called *snaps*. Snaps are the building blocks of a pipeline that perform a single function such as reading, writing, or acting on data. A *pipeline* is a collection of snaps that orchestrate data flow between endpoints. You can use these snaps to integrate data from applications to derive insights. You can easily integrate  to a variety of applications using the SnapLogic Intelligent Integration Platform \(IIP\). SnapLogic is an industry leading iPaaS \(Integration Platform-as-a-service\) vendor with single platform used to integrate applications, data, and things seamlessly.
 
 ![SnapLogic and A360 Integratoin](image/Snaplogic-A360-Integration.png)
 
