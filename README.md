@@ -21,7 +21,7 @@ To deploy a bot from SnapLogic, perform the following steps:
 2.  You can create or modify an existing Pipeline. You will derive the inputs from the Pipeline to feed your  bot that you are planning to deploy. For more information on Working with Pipelines, see [Working with Pipelines](https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/1439001/Working+with+Pipelines).
 
 3.  Search for the REST snap, and Mapper. Then, attach them as shown in the image where you can drag and attach the snaps together in the canvas.
-Download the [sample snaps](sample/NM-pipeline-0_2022_11_15.slp) and update it with your Control Room URL, credentials, and other required parameters. You can use it while building your pipeline.
+Download the [sample snaps](sample/NM-pipeline-0_2022_11_15.zip) and update it with your Control Room URL, credentials, and other required parameters. You can use it while building your pipeline.
 
 4.  Double-click the **REST Post** snap and enter details to get authenticated to access the Automation 360 Control Room:
 
